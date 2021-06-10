@@ -3,3 +3,7 @@ function dos(info, action){
 }
 
 dos(Pepe, codear)
+
+function dosBis(uwu, asdw){
+    console.log(uwu + asdw)
+}

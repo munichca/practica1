@@ -5,3 +5,11 @@
         boolean : true
     }
 ]
+
+[
+    {
+        name : "Modificación",
+        tag : 2,
+        algo : NaN
+    }
+]
